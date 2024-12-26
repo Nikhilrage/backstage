@@ -6,6 +6,7 @@ metadata:
     annotations:
         backstage.io/techdocs-ref: dir:.
         github.com/project-slug: Nikhilrage/backstage
+        backstage.io/kubernetes-id: plugin-k3
     tags:
         - python
     links:
